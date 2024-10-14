@@ -85,3 +85,14 @@ header{
 .active .container{
     transform: translateX(-200px);
 }
+
+/* js html */
+.item{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+.item img{
+    width: 220px;
+    margin: 0 auto;
+}
